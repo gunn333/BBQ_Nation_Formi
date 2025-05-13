@@ -1,0 +1,57 @@
+{
+	"modified_on": "Fri, 20 May 2022 3:35 AM",
+	"location": "Bangalore : Electronic City",
+	"menu": {
+		"veg": {
+			"starters": [
+				"Grill Veg",
+				"Mushroom",
+				"Paneer",
+				"Veg Kebab",
+				"Cajun Spice Potato",
+				"Pineapple"
+			],
+			"main_course": [
+				"Noodles",
+				"Oriental Veg",
+				"Paneer",
+				"Aloo",
+				"Veg Kofta",
+				"Veg Dry & Gravy",
+				"Dal Tadka",
+				"Dal Makhani",
+				"Veg Biryani",
+				"Rice"
+			],
+			"soups": ["Veg Soup"],
+			"salads": ["Veg - 4 varieties"]
+		},
+		"non_veg": {
+			"starters": [
+				"Chicken Tangdi",
+				"Chicken Skewer",
+				"Mutton",
+				"Fish",
+				"Prawns"
+			],
+			"main_course": [
+				"Non Veg Biryani",
+				"Mutton Curry",
+				"Chicken Curry",
+				"Fish Gravy"
+			],
+			"soups": ["Non Veg Soup"],
+			"salads": ["Non Veg Salad"]
+		},
+		"desserts": [
+			"Angoori Gulab Jamun",
+			"Phirnee",
+			"Ice Cream",
+			"Pie/Tart",
+			"Fruits",
+			"Pastry",
+			"Brownie",
+			"Pudding/Soufflé"
+		]
+	}
+}

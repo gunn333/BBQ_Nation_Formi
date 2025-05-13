@@ -1,0 +1,22 @@
+Hi there! 👋
+
+I'm here to help you with your question about {{ topic }}. Let me quickly check what I found in our system...
+
+{% if property %}
+Here's the information I found specifically for **{{ property }}**:
+{% endif %}
+
+Response:
+{{ response }}
+
+{% if response | length < 20 %}
+(We're still updating some details here. Let us know if you'd like us to assist you further!)
+{% endif %}
+
+📌 If you need more specific details—like booking instructions, menu, or current offers—just let me know what you're looking for.
+
+I'm happy to help with anything else!  
+Would you like to ask another question or start a new booking?
+
+Best regards,  
+BBQ Nation Chatbot
